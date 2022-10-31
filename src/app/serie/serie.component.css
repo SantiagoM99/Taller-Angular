@@ -1,0 +1,8 @@
+.table{
+  border: 2px solid black;
+  border-collapse: collapse;
+  margin: 25px 10px;
+}
+.nombreserie{
+  color:rgb(0, 153, 255)
+}
